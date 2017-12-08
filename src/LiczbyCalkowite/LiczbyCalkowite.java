@@ -14,6 +14,6 @@ public class LiczbyCalkowite {
         tablicaLiczbcalkowitych[4] = 100;
 
         suma = tablicaLiczbcalkowitych[0] + tablicaLiczbcalkowitych[2] + tablicaLiczbcalkowitych[4];
-        System.out.println("Suma 1,3 i 5tej liczby calkowitej z tablicy wynosi: " + suma);
+        System.out.println("Suma 1,3ciej i 5tej liczby calkowitej z tablicy wynosi: " + suma);
     }
 }
